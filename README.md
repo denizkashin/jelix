@@ -39,4 +39,4 @@ You stay inside **The Lane**, avoid hazards, and chase high scores while speed k
 - Privacy Policy: [`privacy.txt`](privacy.txt)
 - Terms of Use (EULA): [`terms.txt`](terms.txt)
 
-If you have questions, contact: `deniz.kashin@gmail.com`
+If you have questions, write here
