@@ -1,0 +1,80 @@
+PRIVACY POLICY
+
+Last Updated: April 27, 2026
+
+This Privacy Policy explains how Denis Kashin ("Developer", "we", "us", or "our") collects, uses, and protects information when you use the Jelix mobile application ("Application").
+
+By using Jelix, you agree to this Privacy Policy.
+
+1. Information We Collect
+
+We collect only the minimum data needed to provide and improve Jelix.
+
+1.1 Data Processed on Device
+- Gameplay data (for example: scores, progress, unlocks, settings) is stored locally on your device.
+- We do not require account creation to play Jelix.
+
+1.2 Purchase-Related Data
+- If you make in-app purchases, billing and payment processing are handled by Apple.
+- We do not receive your full payment card details.
+- We may receive limited transaction metadata (for example, purchase status) needed to unlock purchased content.
+
+1.3 Diagnostic and Technical Data
+- We may process limited technical information to maintain app stability and security (for example, crash signals, device/app version, and basic usage events).
+- This information is used for troubleshooting, abuse prevention, and product improvement.
+
+2. How We Use Information
+
+We use information to:
+- run core gameplay features,
+- restore or validate purchased content,
+- fix bugs and improve performance,
+- protect the Application against abuse or fraudulent activity,
+- comply with legal obligations.
+
+3. Data Sharing
+
+We do not sell your personal data.
+
+We may share limited data only:
+- with service providers that help us operate the Application (such as app distribution, purchase validation, and diagnostics),
+- when required by law or legal process,
+- to protect rights, safety, and security.
+
+4. Data Retention
+
+We keep data only for as long as necessary for the purposes described in this policy, unless a longer period is required by law.
+
+Data stored locally in the app may remain on your device until you delete the app or clear app data.
+
+5. Children's Privacy
+
+Jelix is not directed to children under 13, and we do not knowingly collect personal information from children under 13. If you believe such information was provided, contact us and we will take reasonable steps to remove it.
+
+6. Security
+
+We use reasonable technical and organizational safeguards to protect information. However, no system can be guaranteed to be 100% secure.
+
+7. Your Rights
+
+Depending on your location, you may have rights regarding your personal data, including rights to access, correct, delete, or object to processing.
+
+You may also control certain processing through your device and platform settings (for example, app permissions).
+
+8. Third-Party Services
+
+The Application may rely on platform or third-party services (for example, Apple App Store services). Their data practices are governed by their own privacy policies.
+
+9. International Transfers
+
+Your information may be processed in countries other than your own. Where required, we apply appropriate safeguards under applicable law.
+
+10. Changes to This Policy
+
+We may update this Privacy Policy from time to time. The updated version becomes effective when posted, unless stated otherwise.
+
+11. Contact
+
+If you have questions about this Privacy Policy or data processing, contact:
+
+Email: deniz.kashin@gmail.com
